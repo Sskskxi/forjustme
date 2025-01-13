@@ -1,9 +1,5 @@
-##hello
-#git content
-sajgdlan
+##hello world
+my name is seokhoon
 
-asdfghaiafudk
-hsdfuijdsk'
-sdfi
-
-커밋하지 않은 변경사항 저장하기
+이 내용은 브런치 확인을 위한 작업임
+을냐ㅣㅓ마;
