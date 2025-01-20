@@ -44,4 +44,6 @@ my name is seokhoon
 - 장점 : 쉽다.
 - 단점 : 트리가 지저분해진다.
 
-## branch
+## revert 이용하기
+
+- 추천ㅅ 서적 ㅇ: 취믈리에 :
